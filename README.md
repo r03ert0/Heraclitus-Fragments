@@ -19,5 +19,5 @@ You can also contribute by adding sources to this README.md file.
 
 * https://plato.stanford.edu/entries/heraclitus/
 * http://www.heraclitusfragments.com/, maintained by Randy Hoyt.
-* http://www.classicpersuasion.org:80/pw/heraclitus/herpatu.htm, accessible through the Web Archive: https://web.archive.org/web/20151112134841/
+* http://www.classicpersuasion.org:80/pw/heraclitus/herpatu.htm, accessible through the Web Archive: https://web.archive.org/web/20151112134841/http://www.classicpersuasion.org:80/pw/heraclitus/herpatu.htm
 * https://lucianofsamosata.info/wiki/doku.php?id=cynics:heraclitus
