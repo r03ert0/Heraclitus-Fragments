@@ -3,7 +3,8 @@
 A repository for the fragments of Heraclitus. The fragments are randomly tweeted by [@HeraclitusBot](https://twitter.com/HeraclitusBot).
 
 Each fragment is present in two files, a file `fragment-#.greek.txt` containing the original greek text, and a
-file `fragment-#.english.txt` containing an english translation.
+file `fragment-#.english.txt` containing an english translation. The fragment numbers should correspond with those
+in Diels & Kranz "Die Fragmente Der Vorsokratiker".
 
 ## How to contribute
 
@@ -21,3 +22,4 @@ You can also contribute by adding sources to this README.md file.
 * http://www.heraclitusfragments.com/, maintained by Randy Hoyt.
 * http://www.classicpersuasion.org:80/pw/heraclitus/herpatu.htm, accessible through the Web Archive: https://web.archive.org/web/20151112134841/http://www.classicpersuasion.org:80/pw/heraclitus/herpatu.htm
 * https://lucianofsamosata.info/wiki/doku.php?id=cynics:heraclitus
+* Die Fragmente Der Vorsokratiker, by Hermann Diels, revised by Walther Kranz.
