@@ -23,3 +23,4 @@ You can also contribute by adding sources to this README.md file.
 * http://www.classicpersuasion.org:80/pw/heraclitus/herpatu.htm, accessible through the Web Archive: https://web.archive.org/web/20151112134841/http://www.classicpersuasion.org:80/pw/heraclitus/herpatu.htm
 * https://lucianofsamosata.info/wiki/doku.php?id=cynics:heraclitus
 * Die Fragmente Der Vorsokratiker, by Hermann Diels, revised by Walther Kranz.
+* Les Fragments d'Héraclite, by Roger Munier, Édition Les Immémoriaux, Fata Morgana, 1991.
